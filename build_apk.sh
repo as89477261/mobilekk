@@ -1,0 +1,1 @@
+fvm flutter build apk -t lib/main.dart --release
